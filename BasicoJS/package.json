@@ -1,0 +1,15 @@
+{
+  "name": "basico-js",
+  "version": "1.0.0",
+  "description": "código básico de JS",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "lista": "node src/aula04.js",
+    "aula05": "node src/aula05_2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giácopo Campos",
+  "license": "ISC"
+}

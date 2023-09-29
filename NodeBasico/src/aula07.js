@@ -1,0 +1,3 @@
+/*
+Rodamos o servidor pelo package.json
+*/
